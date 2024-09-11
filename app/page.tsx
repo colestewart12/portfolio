@@ -29,7 +29,7 @@ export default function Home() {
                             <p>
                                 At IntelliTect, I worked on Coalesce-based applications, developing solutions for HR,
                                 timekeeping, client management, and other company systems. My skill set includes
-                                languages such as Java, Python, C#, and TypeScript. I'm constantly looking for opportunities to expand my knowledge
+                                languages such as Java, Python, C#, and TypeScript. I&apos;m constantly looking for opportunities to expand my knowledge
                                 in both frontend and backend development, as well as AI and Machine Learning.
                             </p>
                         </div>
