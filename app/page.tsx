@@ -34,12 +34,12 @@ export default function Home() {
                             </p>
                         </div>
                         <div className="mt-6 flex space-x-4">
-                            <Link href="/app/resume">
+                            <Link href="/resume">
                                 <button className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600">
                                     Resume
                                 </button>
                             </Link>
-                            <Link href="/app/projects">
+                            <Link href="/projects">
                                 <button className="px-4 py-2 bg-green-500 text-white rounded hover:bg-green-600">
                                     Projects
                                 </button>
